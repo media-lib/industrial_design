@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c76dfe4b-c789-4d60-b985-76bc5f8f7bd6</dc:identifier>
+        <dc:title>Moral Tribes</dc:title>
+        <dc:creator opf:file-as="Greene, Joshua" opf:role="aut">Joshua Greene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-31T04:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Group, USA</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Joshua Greene&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-26T04:11:24.479000+00:00" name="calibre:timestamp"/>
+        <meta content="Moral Tribes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
